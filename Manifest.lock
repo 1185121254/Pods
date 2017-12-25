@@ -1,0 +1,15 @@
+PODS:
+  - mob_smssdk (3.1.0):
+    - MOBFoundation
+  - MOBFoundation (3.0.8)
+
+DEPENDENCIES:
+  - mob_smssdk (~> 3.1.0)
+
+SPEC CHECKSUMS:
+  mob_smssdk: 50a3c764232919f78578d911a60afc142ee7a405
+  MOBFoundation: dc4419633249fa4f6a0c0a7ad29cbbb376421ed6
+
+PODFILE CHECKSUM: 46c5ef5e1eb1f5c9e13f90f49328c9ed9123c666
+
+COCOAPODS: 1.2.1
